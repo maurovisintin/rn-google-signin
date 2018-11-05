@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/53d7dcca1ace08421da74a491c57abe2747b3c99/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/9ff6573f9c3da119e82b68f98cd11d61e97ae46f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/53d7dcca1ace08421da74a491c57abe2747b3c99/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

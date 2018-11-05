@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/be6c6b64fcc2c631bac6d328c2ac3b826c8dd434/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/be6c6b64fcc2c631bac6d328c2ac3b826c8dd434/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-google-signin/android/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/be6c6b64fcc2c631bac6d328c2ac3b826c8dd434/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]
